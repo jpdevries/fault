@@ -1,10 +1,10 @@
-# Dass
+# fault
 A comprehensive collection of default CSS settings for HTML5 tags as Silent Sass Classes and Mixins.
 
 ## Usage
 
 ```scss
-@import 'dass/dass';
+@import 'fault/fault';
 
 body {
   @extend %body;

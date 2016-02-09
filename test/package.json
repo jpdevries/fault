@@ -1,5 +1,5 @@
 {
-  "name": "dass-test",
+  "name": "fault-test",
   "version": "0.0.0",
   "description": "A comprehensive collection of default CSS settings for HTML5 tags as Silent Sass Classes and Mixins",
   "main": "gruntfile.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jpdevries/Dass.git"
+    "url": "git://github.com/jpdevries/fault.git"
   },
   "keywords": [
     "Sass",
@@ -19,9 +19,9 @@
   "author": "JP DeVries",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jpdevries/Dass/issues"
+    "url": "https://github.com/jpdevries/fault/issues"
   },
-  "homepage": "https://github.com/jpdevries/Dass#readme",
+  "homepage": "https://github.com/jpdevries/fault#readme",
   "devDependencies": {
     "grunt-sass": "^1.1.0"
   }
