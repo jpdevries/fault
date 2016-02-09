@@ -1,6 +1,8 @@
 # fault
 A comprehensive collection of default CSS settings for HTML5 tags as Silent Sass Classes and Mixins.
 
+Fault is completely silent. Including fault in your project initially adds 0 bytes to your CSS payload. So if your site is slow well, that's your&nbsp;fault.
+
 ## Usage
 
 ```scss
