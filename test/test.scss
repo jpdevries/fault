@@ -1,5 +1,5 @@
 /* make sure things compile and you can use silent classes as well as mixins (for media queries) */
-@import '../fault/fault';
+@import '../de/fault';
 
 body {
   @extend %body;

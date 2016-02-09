@@ -4,7 +4,7 @@ A comprehensive collection of default CSS settings for HTML5 tags as Silent Sass
 ## Usage
 
 ```scss
-@import 'fault/fault';
+@import 'de/fault';
 
 body {
   @extend %body;
