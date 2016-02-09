@@ -7,7 +7,7 @@
 }
 
 %body {
-    @extend %div;
+    @extend %display-block;
     margin: 8px;
     &:focus {
         outline: none;

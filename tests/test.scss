@@ -1,0 +1,16 @@
+/* make sure things compile and you can use silent classes as well as mixins (for media queries) */
+@import '../app/assets/stylesheets/dass';
+
+body {
+  @extend %body;
+}
+
+a {
+  @extend %a;
+}
+
+h2 {
+  @media(max-width: 1024px) {
+    @include h2;
+  }
+}

@@ -4,6 +4,6 @@
 }
 
 %address {
-    @extend %div;
+    @extend %display-block;
     @extend %oblique; //@extend %italic; //font-style: italic;
 }

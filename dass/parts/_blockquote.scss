@@ -1,5 +1,5 @@
 @mixin blockquote() {
-    @extend %div;
+    @extend %display-block;
     margin-top: 1em;
     margin-bottom: 1em;
     margin-left: 40px;
