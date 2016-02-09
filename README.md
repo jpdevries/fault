@@ -16,7 +16,7 @@ a {
 
 h2 {
   @media(max-width: 1024px) {
-    @include h2; // each silent class has a associative mixin to be used within @media
+    @include h2; // each silent class has a associated mixin to be used within @media
   }
 }
 ```
@@ -49,4 +49,7 @@ body {
 
 ## Why?
 
-CSS collisions cramping your style? Ever wish you could just set the properties for a CSS element back to the browser defaults? Now you can!
+CSS collisions cramping your style? Ever wish you could just set the properties for a CSS element back to the browser defaults? Now you&nbsp;can!
+
+## Where?
+Data is pulled from Default CSS Settings for each tag in the [W3C&nbsp;Reference](http://www.w3schools.com/tags/tag_blockquote.asp).
