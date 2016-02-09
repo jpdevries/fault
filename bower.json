@@ -1,0 +1,27 @@
+{
+  "name": "Dass",
+  "version": "0.0.0",
+  "main": "app/assets/stylesheets/dass.scss",
+  "homepage": "https://github.com/jpdevries/Dass",
+  "authors": [
+    "JP DeVries <mail@devries.jp>"
+  ],
+  "description": "A comprehensive collection of default CSS settings for HTML5 tags as Silent Sass Classes and Mixins",
+  "keywords": [
+    "HTML",
+    "Sass",
+    "CSS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpdevries/dass.git"
+  }
+}
